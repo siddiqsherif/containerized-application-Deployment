@@ -1,0 +1,17 @@
+# AWS credentials / private keys
+*.pem
+*.key
+.env
+
+# Kubernetes / Minikube local files
+.minikube/
+.kube/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
